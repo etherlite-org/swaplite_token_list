@@ -44,6 +44,14 @@
       "decimals": 18,
       "chainId": 111,
       "logoURI": "https://whitex.tech/assets/images/logo.png"
+    },
+    {
+      "name": "BTLToken",
+      "address": "0x7D22FEd903cc6CcB0A2fDB2F89eE728c146A779C",
+      "symbol": "BTL",
+      "decimals": 8,
+      "chainId": 111,
+      "logoURI": "https://battleship.live/assets/img/logo.png"
     }
   ]
 }
