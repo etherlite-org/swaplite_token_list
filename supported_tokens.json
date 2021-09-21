@@ -1,0 +1,49 @@
+{
+  "name": "SWAPLite Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "swaplite",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 111,
+      "address": "0xFa892627414d306a1Ffd26E4254a781BCb85ea74",
+      "name": "SwapLite Token",
+      "symbol": "SLT",
+      "decimals": 18,
+      "logoURI": "https://cdn.shopify.com/s/files/1/0573/5383/0576/files/Screenshot_4.png?v=1629560367"
+    },
+    {
+      "name": "Wrapped Etherlite",
+      "address": "0x71aBbd6B628Da7874E9861B6A9E5D67B10Eec729",
+      "symbol": "WETL",
+      "decimals": 18,
+      "chainId": 111,
+      "logoURI": "https://cdn.shopify.com/s/files/1/0573/5383/0576/files/download.png?v=1629560877"
+    },
+    {
+      "name": "USDLite",
+      "address": "0xB529eDABdF73E235B5306f67162c9D22eA916448",
+      "symbol": "USDLite",
+      "decimals": 6,
+      "chainId": 111,
+      "logoURI": "https://i.ibb.co/0fJDw66/Group-14.png"
+    },
+    {
+      "name": "WHITEX",
+      "address": "0x38Fb941461e11ADE9Ec426B55593FECBCa954eae",
+      "symbol": "WHX",
+      "decimals": 18,
+      "chainId": 111,
+      "logoURI": "https://whitex.tech/assets/images/logo.png"
+    }
+  ]
+}
