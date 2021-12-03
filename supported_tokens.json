@@ -52,6 +52,14 @@
       "decimals": 8,
       "chainId": 111,
       "logoURI": "https://battleship.live/assets/img/logo.png"
+    },
+    {
+      "name": "ElitefarmToken",
+      "address": "0x8bD0768a36bc2Ce98b7D73D70E8e41E6F0ADFedd",
+      "symbol": "ELF",
+      "decimals": 18,
+      "chainId": 111,
+      "logoURI": "https://elitefarm.io/assets/img/logo.png"
     }
   ]
 }
