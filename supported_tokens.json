@@ -60,6 +60,14 @@
       "decimals": 18,
       "chainId": 111,
       "logoURI": "https://elitefarm.io/assets/img/logo.png"
+    },
+        {
+      "name": "Education",
+      "address": "0x79C308C38a813EC9f6eE376620AF3b56530fe4DB",
+      "symbol": "EDU",
+      "decimals": 18,
+      "chainId": 111,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmaP81x9F2N3YBoE7d3xw4Kr77AatudHKE5aqB4DRTozRu"
     }
   ]
 }
